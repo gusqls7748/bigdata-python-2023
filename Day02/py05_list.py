@@ -17,3 +17,4 @@ a.extend([5, 3, 2])
 print(a)
 
 print(a.count(2))
+
