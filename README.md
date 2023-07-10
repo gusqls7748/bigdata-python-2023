@@ -58,10 +58,10 @@
         - 벅스 인기차트 상위곡 100 csv 저장
     - 코로나 중국 관광객(Chapter 04)
 
-<img src="" width="700" alt="크롬버전">
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling01.png" width="700" alt="크롬버전">
 
 
-<img src="" width="700" alt="크롬드라이버 최신판">
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling02.png" width="700" alt="크롬드라이버 최신판">
 
 ## 9일차
 - 파이썬 데이터분석 실습
@@ -71,16 +71,17 @@
 - 파이썬 데이터분석 실습
     - 제주도 핫플레이스 인스타그램 크롤링
 
-<img src="" width="700" alt="셀레니움 크롤링">
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling03.gif" width="700" alt="셀레니움 크롤링">
 
-<img src="" width="700" alt="크롤링 결과">
+
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling04.png" width="700" alt="크롤링 결과">
 
 ## 11일차
 - 파이썬 데이터분석 실습
     - 제주도 핫플레이스 시각화
     - 워드클라우드
 
-<img src="" width="700" alt="워드클라우드 결과">
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling05.png" width="700" alt="워드클라우드 결과">
 
 ## 12일차
 - 파이썬 데이터분석 실습
@@ -88,7 +89,7 @@
         - 스타벅스 웹사이트 매장 지역검색 셀레니움 데이터 수집
         - 서울열린데이터광장 행정구역, 인구, 사업체 데이터 수집
 
-<img src="" width="700" alt="스타벅스">
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling06.png" width="700" alt="스타벅스">
 
 ## 13일차
 - 파이썬 데이터분석 실습
@@ -105,3 +106,9 @@
 - 파이썬 데이터분석 실습
     -다나와 무선청소기 전처리데이터 시각화/분석
     - 대한민국 행복지수 분석
+
+## 16일차 
+- 파이썬 데이터분석 실습
+    - 환경관련 데이터 분석
+
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling07.png" width="700" alt="미세먼지당 산점도">
