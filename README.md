@@ -112,3 +112,11 @@
     - 환경관련 데이터 분석
 
 <img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling07.png" width="700" alt="미세먼지당 산점도">
+
+## 17, 18일차
+- 파이썬 데이터분석 실습
+    - 주식시세 분석(시계열데이터)
+    - 애플주가 예측
+
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling08.png" width="700" alt="삼성전자 주가">
+<img src="https://raw.githubusercontent.com/gusqls7748/bigdata-python-2023/main/images/crawling09.png" width="700" alt="애플주가 주가">
